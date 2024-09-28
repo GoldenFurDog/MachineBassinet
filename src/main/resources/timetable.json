@@ -1,0 +1,36 @@
+{
+  "Machines" : [
+    {
+      "machineName" : "EXAMPLE0",
+      "osType" : "macOS",
+      "MAC" : "FF:FF:FF:FF:FF:FF",
+      "startTime" : [18,0,0],
+      "shutTime" : [6,30,0],
+      "isLocal" : false
+    },
+    {
+      "machineName" : "LAPTOP0",
+      "osType" : "Windows",
+      "MAC" : "FF:FF:FF:FF:FF:00",
+      "startTime" : [18,0,0],
+      "shutTime" : [6,30,0],
+      "isLocal" : true
+    },
+    {
+      "machineName" : "DESKTOP0",
+      "osType" : "Windows",
+      "MAC" : "FF:FF:FF:FF:99:00",
+      "startTime" : [6,0,0],
+      "shutTime" : [23,30,0],
+      "isLocal" : false
+    },
+    {
+      "machineName" : "SERVER0",
+      "osType" : "Linux",
+      "MAC" : "22:FF:FF:FF:99:00",
+      "startTime" : [0,0,0],
+      "shutTime" : [0,0,0],
+      "isLocal" : false
+    }
+  ]
+}
